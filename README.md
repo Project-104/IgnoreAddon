@@ -1,4 +1,7 @@
 # Ignore Addon for 6b6t
+
+![ignore](https://github.com/user-attachments/assets/fa7308cc-60a0-4c36-b768-b99766181d67)
+
 Very simple ignore addon for 6b6t
 
 ## Modules:
