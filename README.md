@@ -1,6 +1,6 @@
 # Ignore Addon for 6b6t
 
-![ignore](https://github.com/user-attachments/assets/fa7308cc-60a0-4c36-b768-b99766181d67)
+<img src="https://github.com/user-attachments/assets/fa7308cc-60a0-4c36-b768-b99766181d67" width="512" height="512">
 
 Very simple ignore addon for 6b6t
 
