@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "ignore-addon",
+  "version": "${version}",
+  "name": "Ignore Addon",
+  "description": "Ignore Addon for 6b6t",
+  "authors": [
+    "vined_"
+  ],
+  "contact": {
+    "repo": ""
+  },
+  "icon": "assets/icon/ignore.png",
+  "environment": "client",
+  "entrypoints": {
+    "meteor": [
+      "org.vined.ignore.IgnoreAddon"
+    ]
+  },
+  "custom": {
+    "meteor-client:color": "255,0,51"
+  },
+  "depends": {
+    "java": ">=21",
+    "minecraft": [">=${mc_version}"],
+    "fabricloader": ">=0.4.0",
+    "fabric-api": "*",
+    "meteor-client": "*"
+  }
+}
