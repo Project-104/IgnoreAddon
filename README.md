@@ -10,4 +10,4 @@ Very simple ignore addon for 6b6t
 2. **ignore remove (player)**: Removes a player from the ignore list
 3. **ignore view**: Views the ignore list
 
-The ignore list is at `%appdata%\.minecraft\meteor-client\ignore-addon\ignore_list.txt
+The ignore list is at `%appdata%\.minecraft\meteor-client\ignore-addon\ignore_list.txt`
